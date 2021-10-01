@@ -17,7 +17,7 @@ int main(int argc, char** argv){
     scanf("%d", &idade);
 
     printf("Ola %s", nome);
-    printf("\nvoce tem %d", idade);
+    printf("\nsua idade é %d", idade);
     printf("\ne mora em %s",local);
 
     return 0;
