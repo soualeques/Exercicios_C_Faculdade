@@ -14,7 +14,7 @@ int main(int argc, char const *argv[])
 
     media = (nota1 + nota2)/2;
 
-    printf("a media é %f", media);
+    printf("Média = %2f", media);
 
 
 
